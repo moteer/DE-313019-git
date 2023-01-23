@@ -25,7 +25,9 @@ kind of issue simply does not come up, unlike in early versions of Subversion.)
 12.  Look at git log. Notice that there is a merge commit. Also look in gitk. Notice the DAG 
 now shows how things forked, and then were joined up again by a merge commit. 
 13. Try all the above in Intellij.
+
 **Bonus Tasks** 
+
 1. Once again, checkout your branch. Make a couple of commits. 
 2. Return to your master branch. Make a commit there that changes the exact same line, or 
 lines, as commits in your branch did. 
