@@ -25,7 +25,8 @@ should now have started to get a feel for the staging area.
 14.  Use the show command to look at an individual commit. How many characters of the 
 commit identifier can you get away with typing at a minimum? 
 15.  Make a couple more commits, at least one of which should add an extra file. 
-Stretch Task 
+
+**Stretch Task **
 1. Use the Git rm command to remove a file. Look at the status afterwards. Now commit the 
 deletion. 
 2. Delete another file, but this time do not use Git to do it; e.g. if you are on Linux, just use the 
