@@ -1,4 +1,5 @@
 **Exercise 1** 
+
 Main Task 
 1. Create a new directory and change into it. 
 2. Use the init command to create a Git repository in that directory. 
