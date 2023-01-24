@@ -48,5 +48,5 @@ This is the web address that your local folder will use to push its contents to 
 
 ``git push -u origin main``
 
-**Streched tasks**
+**Stretched tasks**
 1. Only if you finished early, try to understand and use "Fork" and PullRequest
