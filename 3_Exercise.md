@@ -9,7 +9,7 @@ Try to use commandline as well as intellij to get used to both ;)
    - Team 4:  Minh, Christian, Sebastian
 
 3. Choose one of your team mates to connect to github (sharing the screen).
-4. In the command line, navigate to the root directory of your game project.
+4. In the command line, navigate to the root directory of your new project.
 6. Create/Initialise your local git repo and with any of your java projects to your local git repository. Use the following command to have your main branch called main.
 
 ``git init -b main``
